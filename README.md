@@ -22,6 +22,7 @@ UniPay includes the following features:
 
 ## 3. User Interface  
 The SSST Digital Wallet application follows a logical navigation structure designed to provide an intuitive user experience. The application flow begins with role selection and branches into different paths based on user type and actions.
+![Screenshot 2025-03-16 at 15-33-24 Online FlowChart   Diagrams Editor - Mermaid Live Editor](https://github.com/user-attachments/assets/31bf8179-d4ef-4fbc-ba99-f4537f5e129d)
 
 All pages include navigation paths back to their parent pages, ensuring users can easily move throughout the application without getting lost.
 The sitemap uses a color scheme that matches our application design:
